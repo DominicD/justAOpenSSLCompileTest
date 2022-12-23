@@ -1,7 +1,7 @@
 # Docs at https://docs.conan.io/en/latest/reference/conanfile_txt.html
 
 [requires]
-openssl/3.0.2
+openssl/3.0.7
 
 [generators]
 cmake_find_package_multi
